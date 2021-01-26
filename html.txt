@@ -1,0 +1,95 @@
+<section>
+  <div class="container py-5">
+
+
+  
+    <header class="text-center mb-5 text-white">
+      <div class="row">
+        <div class="col-lg-7 mx-auto">
+          <h1>Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü Web Programlama 1 Dersi Final Sorusu</h1>
+          <p>Dr.Öğr. Üyesi Fehim Köylü&nbsp;<br> <a href="https://bootstrapious.com/snippets" class="text-reset">Alışveriş Uygulaması</a></p>
+        </div>
+      </div>
+    </header>
+    <!-- END -->
+
+
+
+    <div class="row text-center align-items-end">
+      <!-- Pricing Table-->
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <div class="bg-white p-5 rounded-lg shadow">
+          <h1 class="h6 text-uppercase font-weight-bold mb-4">Ekmek</h1>
+          <h2 class="h1 font-weight-bold">2 TL<span class="text-small font-weight-normal ml-2">/ adet</span></h2>
+
+          <div class="custom-separator my-4 mx-auto bg-primary"></div>
+
+          <ul class="list-unstyled my-5 text-small text-left">
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i> Somun Ekmek</li>
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i> 200 Gr</li>
+            <li class="mb-3">
+         
+             
+            </li>
+          </ul>
+          <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Sepete Ekle</a>
+        </div>
+      </div>
+      <!-- END -->
+
+
+      <!-- Pricing Table-->
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <div class="bg-white p-5 rounded-lg shadow">
+          <h1 class="h6 text-uppercase font-weight-bold mb-4">Çikolata</h1>
+          <h2 class="h1 font-weight-bold">5 TL<span class="text-small font-weight-normal ml-2">/ adet</span></h2>
+
+          <div class="custom-separator my-4 mx-auto bg-primary"></div>
+
+          <ul class="list-unstyled my-5 text-small text-left font-weight-normal">
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i> Bitter Çikolata</li>
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i> 60 Gr</li>
+            <li class="mb-3">
+             
+             
+            <li class="mb-3 text-muted">
+            
+             
+            </li>
+          </ul>
+          <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Sepete Ekle</a>
+        </div>
+      </div>
+      <!-- END -->
+
+
+      <!-- Pricing Table-->
+      <div class="col-lg-4">
+        <div class="bg-white p-5 rounded-lg shadow">
+          <h1 class="h6 text-uppercase font-weight-bold mb-4">Domates</h1>
+          <h2 class="h1 font-weight-bold">6 TL<span class="text-small font-weight-normal ml-2">/ Kg</span></h2>
+
+          <div class="custom-separator my-4 mx-auto bg-primary"></div>
+
+          <ul class="list-unstyled my-5 text-small text-left font-weight-normal">
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i> Domates</li>
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i>Antalya</li>
+            <li class="mb-3">
+              <i class="fa fa-check mr-2 text-primary"></i> Sera</li>
+            <li class="mb-3">
+            
+          </ul>
+          <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Sepete Ekle</a>
+        </div>
+      </div>
+      <!-- END -->
+
+    </div>
+  </div>
+</section>
